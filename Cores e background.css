@@ -1,0 +1,85 @@
+body {
+
+    background-color: lightgray;
+
+}
+
+.spanVermelho {
+
+    background-color: red;
+
+}
+
+.spanVerde {
+
+    background-color: green;
+
+}
+
+.spanAzul {
+
+    background-color: blue;
+    color: white;
+
+}
+
+.spanAmarelo {
+
+    background-color: yellow;
+
+}
+
+.spanPreto {
+
+    background-color: black;
+    color: white;
+
+}
+
+.divisoria {
+
+    background-color: gray;
+
+}
+
+#fundoTransparente {
+
+    background-color: rgba(255, 255, 255, 0);
+
+}
+
+#fundoVermelho {
+
+    background-color: salmon;
+
+}
+
+#fundoVerde {
+
+    background-color: lightgreen;
+
+}
+
+#fundoAzul {
+
+    background-color: lightblue;
+
+}
+
+#fundoAmarelo {
+
+    background-color: lightyellow;
+
+}
+
+#fundoPreto {
+
+    background-color: rgb(68, 68, 68);
+
+}
+
+.letraBranca {
+
+    color: white;
+
+}
