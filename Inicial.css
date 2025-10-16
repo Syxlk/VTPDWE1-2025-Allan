@@ -1,0 +1,59 @@
+body {
+    background-color: lightgray;
+    padding: 0.3vw 3vw;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.grifar {
+    background-color: yellow;
+}
+
+.divsp {
+    background-color: #FFECC8;
+    color: #CC3636;
+    padding: 0.2vw 2vw;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+ul {
+    color: black;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th {
+    background-color: gray;
+}
+
+.divrj {
+    background-color: #D2E0FB;
+    color: #2D639C;
+    padding: 0.2vw 2vw;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.divmg {
+    background-color: #FEFAE0;
+    color: #557C56;
+    padding: 0.2vw 2vw;
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
